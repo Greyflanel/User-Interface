@@ -64,17 +64,32 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
-body{
-	margin: 0px 300px;
-	
+body {
+	margin-left: 20%;
+	margin-right: 20%;
+	padding-left: 95px;
+	padding-right: 95px;
 }
-.great-idea { 
-	display: inline-block;
-	margin-left: 200px;
+.logo { 
+	display: inline-block;	
+	margin-left: 50px;
 	padding-top: 20px;
-	
 }
 nav {
- margin-top: 0;
- text-align: ;
+	margin-bottom: 20px;
+	padding-top: 20px;
+ 
 }
+nav a {
+	color: lightgray;
+	text-decoration: none;
+	padding-right: 40px;	
+}
+.code-snippet {
+	margin-left: 55%;
+}
+ header h1 {
+	margin-left: 100px;
+	padding-top: 0px;
+}
+
